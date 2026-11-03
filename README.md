@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0680-valid-palindrome-ii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0680-valid-palindrome-ii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
