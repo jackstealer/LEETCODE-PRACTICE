@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
