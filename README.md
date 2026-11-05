@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
