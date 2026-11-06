@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/2747-count-zero-request-servers) |
 ## Math
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Dynamic Programming
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
