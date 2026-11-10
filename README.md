@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-process-tasks-using-servers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
