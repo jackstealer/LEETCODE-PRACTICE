@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0844-backspace-string-compare) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
 |  |
 | ------- |
