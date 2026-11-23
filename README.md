@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 | [1267-count-servers-that-communicate](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -153,10 +155,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3364-minimum-positive-sum-subarray) |
 ## Tree
 |  |
 | ------- |
 | [3331-find-subtree-sizes-after-changes](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/3331-find-subtree-sizes-after-changes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/jackstealer/LEETCODE-PRACTICE/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
